@@ -1,7 +1,7 @@
 ---
-name: Sampat Yadawad
-position: Co-Founder and CMO, COO
-image_path: https://milinddeore.github.io/talkSecretAIWebsite/images/sam.jpeg
-linkedin: sampat-yadawad-75857a4
-blurb: Santosh spent 22+ years as CEO, COO or various companies. Spent 20 years in the telecom and digital world most of it in the Europe, Asia.
+name: Ashim Roy
+position: Co-Founder and CEO
+image_path: https://milinddeore.github.io/talkSecretAIWebsite/images/Ashim-Roy.jpg
+linkedin: ashimroy
+blurb: Ashim spent 30+ years as CEO, CTO or various companies. He has spent about 24 years in the telecom world most of it in the US and holds several patents. He has been an adjunct professor at Catholic University, Washington DC.
 ---
